@@ -16,6 +16,7 @@ I am constantly learning new skills in programming (Java Script) and layout
 + Git
 + Figma
 + > training continues.
+
 ## Code Examples:
 ```
 @media (max-width: 675px) {
