@@ -15,7 +15,7 @@ I am constantly learning new skills in programming (Java Script) and layout
 + JavaScript
 + Git
 + Figma
-+ > training continues.
++ training continues.
 
 ## Code Examples:
 ```
